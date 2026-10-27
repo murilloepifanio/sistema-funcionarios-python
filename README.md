@@ -52,7 +52,7 @@ Projeto em desenvolvimento para fins de estudo e prática de Python.
 
 ## Autor
 
-Murillo
+Murillo Epifânio Rodrigues de Almeida
 
 ## Execução
 
