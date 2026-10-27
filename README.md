@@ -53,3 +53,13 @@ Projeto em desenvolvimento para fins de estudo e prática de Python.
 ## Autor
 
 Murillo
+
+## Execução
+
+Este é um projeto de estudo de programação orientada a objetos em Python. Consulte os arquivos `.py` do repositório para identificar o módulo de execução e as classes disponíveis.
+
+## Próximas melhorias
+
+- Adicionar testes automatizados.
+- Documentar exemplos de uso das classes.
+- Validar entradas e casos extremos.
